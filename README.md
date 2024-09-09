@@ -1,7 +1,7 @@
-Meu nome e isabelly freitas
+Meu nome é isabelly freitas
 
 Estou estudando alura
-Estou me desenvolvendo na lingyagem JavaScript
+Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organizaçâo e compartilhamento dos meus projetos desenvolvidos
 isabellyfreitas539@gmail.com
 
